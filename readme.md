@@ -22,3 +22,11 @@ $wm->output();
 // Saves the image as a PNG
 $wm->output("output.png", "png");
 ```
+
+Images
+======
+The first image is how it looks in debug mode, the 2nd image is using the normal colors and the last image is how it looks after modifying 2nd images curves in photoshop, which is what you do on screenshots to make the watermark visible.
+
+![output in debug mode](https://raw2.github.com/BlackVoid/WaterMark/master/examples/debug.png)
+![output in debug mode](https://raw2.github.com/BlackVoid/WaterMark/master/examples/normal.png)
+![output in debug mode](https://raw2.github.com/BlackVoid/WaterMark/master/examples/photoshop.png)
