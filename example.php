@@ -13,4 +13,4 @@ $wm->render();
 // Outputs the image
 $wm->output();
 // Saves the image as a PNG
-$wm->output("output.png", "png");
+$wm->save("output.png", "png");
